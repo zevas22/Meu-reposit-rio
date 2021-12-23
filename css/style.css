@@ -1,0 +1,13 @@
+.content-wrapper {
+    margin-left: 0px !important;
+    min-height: 500px;
+}
+.content-panel{
+    padding-left: 2em;
+    padding-right: 1em;
+}
+.title-content{
+    padding-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+}
